@@ -81,6 +81,10 @@ The project is not deployed online and is intended for local development.
 ### Warnings on the Get classroom info page
 ![Warnings](screenshots/warning.jpg)
 
+### Edit/delete registration page with pagination
+![Edit/delete registration](screenshots/course-registration.jpg)
+
+
 ### Get timetable page
 ![Get timetable](screenshots/timetable.jpg)
 
