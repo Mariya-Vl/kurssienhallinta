@@ -77,7 +77,12 @@ The project is not deployed online and is intended for local development.
 
 ### Get info page
 ![Get info page](screenshots/get-teacher-info.png)
-![Get info page](screenshots/get-timetable-info.png)
+
+### Warnings on the Get classroom info page
+![Warnings](screenshots/warning.jpg)
+
+### Get timetable page
+![Get timetable](screenshots/timetable.jpg)
 
 ### Add page
 ![Add page](screenshots/add-student.png)
