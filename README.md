@@ -26,6 +26,27 @@ The main goal of the project was to practice team-based web development, CRUD op
 
 ---
 
+## My role and contribution
+
+Role: **Full-stack developer**
+
+My responsibilities focused on project setup, backend functionality, and implementation of key user interface pages.
+
+### Key contributions:
+
+- Created and configured the GitHub repository
+- Built the initial project structure
+- Developed multiple database query functions
+- Implemented the Room information page with dynamic data retrieval, capacity validation, and visual warnings for overbooked courses
+- Developed the Course registration management page, including:
+  * filtering functionality
+  * pagination
+  * group actions (edit/delete operations)
+- Implemented the Schedule view page and designed the layout for student timetables
+- Contributed to both frontend and backend development throughout the project
+
+---
+
 ## Development process
 - Team-based development
 - Task-based workflow using feature branches
